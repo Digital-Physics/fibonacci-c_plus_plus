@@ -1,0 +1,1 @@
+We use the Fibonacci sequence to explore some basic C++ syntax.
